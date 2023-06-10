@@ -1,1 +1,1 @@
-gcc -Wall -g -o Main *.c 
+gcc -Wall -Wextra -g -o Main -ljson-c *.c 
